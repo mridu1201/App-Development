@@ -1,3 +1,3 @@
 # App-Development
-![ERDiagram](Day 1/ERDiagram.jpg)
-![SequenceDiagram](Day 1/SequenceDiagram.jpg)
+![ERDiagram](Day 2/ERDiagram.jpg)
+![SequenceDiagram](Day 2/SequenceDiagram.jpg)
