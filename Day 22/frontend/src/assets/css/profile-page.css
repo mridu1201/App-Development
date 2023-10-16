@@ -1,0 +1,116 @@
+/* .profile-maindiv{
+    position: relative;
+}
+.profile-bg{
+    position: absolute;
+    width: 100%;
+    height: 150%;
+}
+
+.profile-bg-img{
+    width: 100%;
+    height: 100%;
+}
+.profile-picture{
+    display: inline-block;
+    
+}
+.profile-img{
+    border: 10px  black;
+    border-radius: 80%;
+    width: 16%;
+    height: 190px;
+    padding: 10px;
+    margin: 170px 0 0 130px;
+}
+.profile-details{
+    display: inline-block;
+    position:relative;
+    overflow-x: visible;
+}
+.profile-details{
+    bottom: 0;
+} */
+
+.profile-maindiv {
+    position: relative;
+  }
+  
+  .profile-bg {
+    position: absolute;
+    width: 100%;
+    height: 350%;
+  }
+  
+  .profile-bg-img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .profile-picture {
+    display: inline-block;
+  }
+  
+  .profile-img {
+    border: 10px solid rgb(255, 255, 255); /* Added "solid" to specify the border style */
+    border-radius: 80%;
+    width: 16%;
+    height: 190px;
+    padding: 10px;
+    margin: 180px 0 100px 180px;
+  }
+  
+  .profile-complete {
+    /* Adjust the margin-top value to control the space between profile-picture and profile-complete */
+    margin-top: 300px;
+  }
+ .profile-details{
+  display: inline-block;
+  margin: 280px 0 0 0;
+  padding: 0 0 0 400px;
+ }
+.profile-picture{
+  display: flex;
+  align-items: normal;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+.profile-name{
+  color: rgb(94, 94, 94);
+  font-size: 30px;
+}
+.profile-age{
+  font-size: 16px;
+}
+.profile-email{
+  color: rgb(66, 66, 66);
+  font-size: 13px;
+}
+.profile-edit{
+  display: inline-block;
+  margin: -150px 0 0 230px;
+  color: rgb(81, 81, 81);
+}
+
+.profile-complete{
+  display: flex;
+  align-items: center;
+}
+.application-status{
+  margin: 60px;
+}
+.profile-complete{
+  margin-top: 480px; 
+
+}
+.profile-others{
+  display: flex;
+  flex-direction: row;
+}
+.payment-details{
+  margin: 140px 0 0 100px ;
+  /* text-align: center; */
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
